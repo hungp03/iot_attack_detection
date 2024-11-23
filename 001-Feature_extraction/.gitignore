@@ -1,5 +1,5 @@
 *.csv
 csvs/
-pcaps/
+pcaps2csv/
 SW/
 FE/
